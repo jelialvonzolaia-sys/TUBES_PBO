@@ -1,6 +1,6 @@
 # TUBES_PBO
 
-Program **ATM Bank Anak Rantau** merupakan aplikasi ATM sederhana berbasis terminal menggunakan bahasa pemrograman **C++**. Project ini dibuat untuk memenuhi tugas besar mata kuliah **Pemrograman Berorientasi Objek**.
+Program **ATM Bank Anak Rantau** merupakan aplikasi ATM sederhana berbasis terminal menggunakan bahasa pemrograman **C++**. Project ini dibuat untuk memenuhi tugas besar mata kuliah **Praktikum Pemrograman Berorientasi Objek**.
 
 ## Daftar Anggota Kelompok
 
