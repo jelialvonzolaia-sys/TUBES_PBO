@@ -11,6 +11,7 @@ Program **ATM Bank Anak Rantau** merupakan aplikasi ATM sederhana berbasis termi
 |  3 | Rodotua Naomi Mutiara Simamora | 251402030 |
 |  4 | Felix Desselo Tambunan         | 251402033 |
 |  5 | Vedder Timothy Simbolon        | 251402072 |
+|  6 | Jeli Alvonzo Laia              | 251402072 |
 
 ## Fitur Program
 
